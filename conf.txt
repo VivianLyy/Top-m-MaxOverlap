@@ -1,0 +1,37 @@
+50000
+100000
+1000
+oData1.txt
+pData1.txt
+qData1.txt
+1
+5
+1
+
+2
+4
+2
+2
+6
+data.txt
+query.txt
+
+
+
+1. no. of o points
+2. no. of p points
+3. no. of q points
+4. data file for O
+5. data file for P
+6. data file for Q
+7. k
+8. l
+9. alg no.
+10. ~~ blank line ~~
+11. m
+12. M
+13. no. of Dim
+14. reinsert_p
+15. no_histogram (dummy)
+16.data file (dummy)
+17.query file (dummy)
